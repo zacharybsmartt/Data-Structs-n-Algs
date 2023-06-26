@@ -9,4 +9,3 @@ class LinkedList:
     def __init__(self):
         # we create the head node, this is the crux of linked list
         self.head = None
-        
